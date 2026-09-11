@@ -1,6 +1,6 @@
 ## Olá, eu sou a Helo! 👋
-#Seja Bem-vindo ao meu meu perfil
-#Sou estudante de Engenharia de Software e com uma grande paixão por tecnologia e novos aprendizados 😄
+# Seja Bem-vindo ao meu meu perfil
+# Sou estudante de Engenharia de Software e com uma grande paixão por tecnologia e novos aprendizados 😄
 
 <!--
 **helosaito/helosaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
